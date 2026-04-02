@@ -2,7 +2,7 @@
 
 Django app for alumni–foundation coordination: **needs**, **projects** (milestones / timeline), **funding** (pools, contributions, expenses), **events**, **governance** thresholds, and persona-aware dashboards.
 
-Product/architecture details may live in `msu_vision_2020_architecture_v1.2.md` if you add that file to this repository.
+See [`msu_vision_2020_architecture_v1.2.md`](./msu_vision_2020_architecture_v1.2.md) for the full architecture and product narrative.
 
 ---
 
